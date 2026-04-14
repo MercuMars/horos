@@ -1,0 +1,192 @@
+diff --git a/Horos/Resources/zh-Hans.lproj/Localizable.strings b/Horos/Resources/zh-Hans.lproj/Localizable.strings
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/Horos/Resources/zh-Hans.lproj/Localizable.strings
+@@ -0,0 +1,132 @@
++/* No comment provided by engineer. */
++"   Measurement: %2.2f cm " = "   测量：%2.2f cm ";
++
++/* No comment provided by engineer. */
++"   Measurement: %2.2f mm " = "   测量：%2.2f mm ";
++
++/* No comment provided by engineer. */
++"   Pixel: %@   %@ %@" = "   像素：%1$@   %2$@ %3$@";
++
++/* No comment provided by engineer. */
++"   Scale: %2.3f %% " = "   比例：%2.3f %% ";
++
++/* No comment provided by engineer. */
++"& DICOM Nodes" = "& DICOM 节点";
++
++/* No comment provided by engineer. */
++"(retired)" = "(已废弃)";
++
++/* No comment provided by engineer. */
++"(SUV Converted)" = "(SUV 已转换)";
++
++/* don't remove leading space */
++"(TLS)" = "(TLS)";
++
++/* No comment provided by engineer. */
++" - %2.f%%" = " - %2.f%%";
++
++/* No comment provided by engineer. */
++" - %@" = " - %@";
++
++/* No comment provided by engineer. */
++" / Modality: %@" = " / 模态：%@";
++
++/* No comment provided by engineer. */
++" / Result = %@ studies (%@ images)" = " / 结果 = %1$@ 检查（%2$@ 图像）";
++
++/* No comment provided by engineer. */
++" / Search: Accession Number = %@" = " / 搜索：登记号 = %@";
++
++/* No comment provided by engineer. */
++" / Search: All fields = %@" = " / 搜索：所有字段 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Comments 2 = %@" = " / 搜索：注释 2 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Comments 3 = %@" = " / 搜索：注释 3 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Comments 4 = %@" = " / 搜索：注释 4 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Comments = %@" = " / 搜索：注释 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Modality = %@" = " / 搜索：模态 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Patient's name = %@" = " / 搜索：患者姓名 = %@";
++
++/* No comment provided by engineer. */
++" / Search: Study Description = %@" = " / 搜索：检查描述 = %@";
++
++/* No comment provided by engineer. */
++" / Time Interval: from: %@ to: %@" = " / 时间间隔：从：%1$@ 到：%2$@";
++
++/* No comment provided by engineer. */
++" / Time Interval: since: %@" = " / 时间间隔：自：%@";
++
++/* No special characters for this string, only ASCII character. */
++" Angle: %0.0f" = " 角度：%0.0f";
++
++/* DB = DataBase */
++" DB" = " 数据库";
++
++/* m = month */
++" m" = " m";
++
++/* No comment provided by engineer. */
++" version " = " 版本 ";
++
++/* No comment provided by engineer. */
++" will be replaced by " = " 将被替换为 ";
++
++/* y = year */
++" y" = " y";
++
++/* im/s = images per second */
++"%0.0f im/s" = "%0.0f im/s";
++
++/* No comment provided by engineer. */
++"%0.1f %cm" = "%1$ .1f %2$cm";
++
++/* im/s = images per second */
++"%0.1f im/s" = "%0.1f im/s";
++
++/* No comment provided by engineer. */
++"%0.2f cm" = "%0.2f cm";
++
++/* No comment provided by engineer. */
++"%0.2f mm" = "%0.2f mm";
++
++/* No comment provided by engineer. */
++"%@ (%d series)" = "%1$@（%2$d 个序列）";
++
++/* No comment provided by engineer. */
++"%@ (to be deleted)" = "%@（将被删除）";
++
++/* Web Portal, study, title format (1st %@ is [study.name](http://study.name/), 2nd is study.studyName, 3rd date) */
++"%@ - %@ - %@" = "%@ - %@ - %@";
++
++/* No comment provided by engineer. */
++"%@ database at %@" = "%1$@ 数据库，位于 %2$@";
++
++/* No comment provided by engineer. */
++"%@ is not an email address." = "%@ 不是电子邮箱地址。";
++
++/* No comment provided by engineer. */
++"%@ the following plugins : %@" = "%1$@ 以下插件：%2$@";
++
++/* No comment provided by engineer. */
++"%@ the plugin name d : %@" = "%1$@ 名为：%2$@ 的插件？";
++
++/* No comment provided by engineer. */
++"%@%@" = "%1$@%2$@";
++
++/* No comment provided by engineer. */
++"@, %@" = "%1$@, %2$@";
++
++/* No comment provided by engineer. */
++"%@-Report.pdf" = "%@-报告.pdf";
++
++/* semicolon separator for spacing */
++"%@: %@" = "%1$@： %2$@";
++
++/* No comment provided by engineer. */
++"%@: %@ / " = "%1$@： %2$@ / ";
++
++/* No comment provided by engineer. */
++"%@\r" = "%@\r";
++
++/* No comment provided by engineer. */
++"%@\r%@" = "%1$@\r%2$@";
++
++/* No comment provided by engineer. */
++"%d additional files queued" = "%d 个额外文件已排队";
++
++/* d = day */
++"%d d" = "%d d";
++
++/* No comment provided by engineer. */
++"%d images" = "%d 张图像";
++
++/* No comment provided by engineer. */
++"%d pages" = "%d 页";
++
++/* No comment provided by engineer. */
++"%d pixels" = "%d 像素";
++
++/* No comment provided by engineer. */
++"%d series" = "%d 个序列";
++
++/* No comment provided by engineer. */
++"%d studies" = "%d 个检查";
++
++/* No comment provided by engineer. */
++"%d study" = "%d 个检查";
++
++/* No comment provided by engineer. */
++"%d/%d Images" = "%1$d/%2$d 张图像";
++
++/* No comment provided by engineer. */
++"(Current User Documents folder)" = "(当前用户 文档 文件夹)";
++
++/* No comment provided by engineer. */
++"(none)." = "(无).";
+
+diff --git a/Horos/Resources/README-LOCALIZATION.md b/Horos/Resources/README-LOCALIZATION.md
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/Horos/Resources/README-LOCALIZATION.md
+@@ -0,0 +1,48 @@
++# Horos 本地化说明（简体中文 zh-Hans）
++
++此目录为添加/测试简体中文本地化的说明。
